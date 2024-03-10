@@ -1,0 +1,17 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "Demos for new tools",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^1.1.0",
+    "lighthouse": "^11.6.0",
+    "tsx": "^4.7.1"
+  }
+}
